@@ -2,4 +2,4 @@
 
 |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZjzMisaka&show_icons=true&theme=default&locale=en&include_all_commits=true&hide_border=true"/></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZjzMisaka&show_icons=true&theme=default&layout=compact&locale=en&include_all_commits=true&hide_border=true"/></a>|
 | ------------- | ------------- |
-|<a href="https://githubtrends.io"><img align="center" src="https://api.githubtrends.io/user/svg/ZjzMisaka/repos?include_private=False&loc_metric=changed"/></a>|<a href="https://githubtrends.io"><img align="center" src="https://api.githubtrends.io/user/svg/ZjzMisaka/langs?include_private=False&loc_metric=changed"/></a>|
+|<a href="https://githubtrends.io"><img align="center" src="https://api.githubtrends.io/user/svg/ZjzMisaka/repos?include_private=True&loc_metric=changed"/></a>|<a href="https://githubtrends.io"><img align="center" src="https://api.githubtrends.io/user/svg/ZjzMisaka/langs?include_private=True&loc_metric=changed"/></a>|
