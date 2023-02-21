@@ -5,3 +5,6 @@
 
 |<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ZjzMisaka&column=-1&margin-w=15&margin-h=15&no-frame=true"/></a>|
 | ------------- |
+
+|<a href="https://github.com/ZjzMisaka/AnimeReport"><img align="center" src="https://github.com/ZjzMisaka/AnimeReport/blob/main/tags.png" title="AnimeReport"/></a>|<a href="https://github.com/ZjzMisaka/AnimeReport"><img align="center" src="https://github.com/ZjzMisaka/AnimeReport/blob/main/companies.png" title="AnimeReport"/></a>|
+| ------------- | ------------- |
