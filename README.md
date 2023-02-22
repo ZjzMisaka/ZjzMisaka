@@ -6,5 +6,12 @@
 |<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ZjzMisaka&column=-1&margin-w=15&margin-h=15&no-frame=true"/></a>|
 | ------------- |
 
-|<a href="https://github.com/ZjzMisaka/AnimeReport"><img align="center" src="https://github.com/ZjzMisaka/AnimeReport/blob/main/tags.png" title="AnimeReport"/></a>|<a href="https://github.com/ZjzMisaka/AnimeReport"><img align="center" src="https://github.com/ZjzMisaka/AnimeReport/blob/main/companies.png" title="AnimeReport"/></a>|
-| ------------- | ------------- |
+<table>
+  <tr>
+    <td><a href="https://github.com/ZjzMisaka/AnimeReport"><img align="center" src="https://github.com/ZjzMisaka/AnimeReport/blob/main/tags.png" title="AnimeReport"/></a></td>
+    <td><a href="https://github.com/ZjzMisaka/AnimeReport"><img align="center" src="https://github.com/ZjzMisaka/AnimeReport/blob/main/companies.png" title="AnimeReport"/></a></td>
+  </tr>
+  <tr>
+    <th colspan="2"><a href="https://github.com/ZjzMisaka/AnimeReport">My animation viewing report</a></th>
+  </tr>
+</table>
