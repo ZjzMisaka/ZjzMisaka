@@ -8,8 +8,8 @@
 
 <table>
   <tr>
-    <td><a href="https://github.com/ZjzMisaka/AnimeReport"><img align="center" src="https://github.com/ZjzMisaka/AnimeReport/blob/main/tags.png" title="AnimeReport"/></a></td>
-    <td><a href="https://github.com/ZjzMisaka/AnimeReport"><img align="center" src="https://github.com/ZjzMisaka/AnimeReport/blob/main/companies.png" title="AnimeReport"/></a></td>
+    <td><a href="https://github.com/ZjzMisaka/AnimeReport"><img width=1000 align="center" src="https://github.com/ZjzMisaka/AnimeReport/blob/main/tags.bmp" title="AnimeReport"/></a></td>
+    <td><a href="https://github.com/ZjzMisaka/AnimeReport"><img width=1000 align="center" src="https://github.com/ZjzMisaka/AnimeReport/blob/main/companies.bmp" title="AnimeReport"/></a></td>
   </tr>
   <tr>
     <th colspan="2"><a href="https://github.com/ZjzMisaka/AnimeReport">My animation viewing report</a></th>
