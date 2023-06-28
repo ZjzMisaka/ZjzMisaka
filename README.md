@@ -13,7 +13,7 @@
 |[CustomizableMessageBox](https://github.com/ZjzMisaka/CustomizableMessageBox)|Library|Customize your messagebox|
 |[QTReleaser](https://github.com/ZjzMisaka/QTReleaser)|Software|可视化QT应用软件打包发布程序|
 |[RoslynScriptRunner](https://github.com/ZjzMisaka/RoslynScriptRunner)|Library|RoslynScriptRunner is a versatile C#/VB.NET script execution library based on the Roslyn compiler, enabling dynamic runtime execution of C#/VB.NET code snippets without the need for pre-compilation.|
-|[TagCloudGenerator](https://github.com/ZjzMisaka/TagCloudGenerator)|Library|Generate a tagcloud bitmap image|
+|[TagCloudGenerator](https://github.com/ZjzMisaka/TagCloudGenerator)|Library|TagCloudGenerator is a C# library that allows you to generate a tag cloud bitmap image from a given set of strings and their corresponding weights. You can customize the appearance of the tag cloud by specifying various options, such as font size, font color, background color, and more.|
 |[Diff](https://github.com/ZjzMisaka/Diff)|Library|get textual diffs|
 |[OMSPL](https://github.com/ZjzMisaka/OMSPL)|Document|OYAMA MAHIRO SAIKOU PUBLIC LICENSE - 绪山真寻赛高公共许可证 - 緒山まひろ最高パブリックライセンス|
 
