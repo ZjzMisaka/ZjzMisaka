@@ -8,13 +8,13 @@
 
 |Repo|Type|Lang|About|
 |----|----|----|----|
-|[RoslynScriptRunner](https://github.com/ZjzMisaka/RoslynScriptRunner)|Library|c#|Enables runtime execution of C#/VB.NET scripts without pre-compilation. Supports Func delegate generation, DLLs, flexible run options, and async capabilities.|
-|[CSGOTacticSimulator](https://github.com/ZjzMisaka/CSGOTacticSimulator)|Software|c#|Watch demos&povs, simulate actions in CSGO competition. - 观看demo和pov, 模拟CSGO竞技中的动作.|
-|[ExcelTool](https://github.com/ZjzMisaka/ExcelTool)|Software|c#|Perform batch reading, analysis, and output operations of Excel by executing pre-written c# scripts.|
-|[CustomizableMessageBox](https://github.com/ZjzMisaka/CustomizableMessageBox)|Library|c#|Customize your messagebox|
-|[QTReleaser](https://github.com/ZjzMisaka/QTReleaser)|Software|c++|可视化QT应用软件打包发布程序|
-|[TagCloudGenerator](https://github.com/ZjzMisaka/TagCloudGenerator)|Library|c#|Generates a tag cloud bitmap using weighted strings and customizable options for font size, color, background, and more.|
-|[Diff](https://github.com/ZjzMisaka/Diff)|Library|c#|get textual diffs|
+|[RoslynScriptRunner](https://github.com/ZjzMisaka/RoslynScriptRunner)|Library|C#|Enables runtime execution of C#/VB.NET scripts without pre-compilation. Supports Func delegate generation, DLLs, flexible run options, and async capabilities.|
+|[CSGOTacticSimulator](https://github.com/ZjzMisaka/CSGOTacticSimulator)|Software|C#|Watch demos&povs, simulate actions in CSGO competition. - 观看demo和pov, 模拟CSGO竞技中的动作.|
+|[ExcelTool](https://github.com/ZjzMisaka/ExcelTool)|Software|C#|Perform batch reading, analysis, and output operations of Excel by executing pre-written c# scripts.|
+|[CustomizableMessageBox](https://github.com/ZjzMisaka/CustomizableMessageBox)|Library|C#|Customize your messagebox|
+|[QTReleaser](https://github.com/ZjzMisaka/QTReleaser)|Software|C++|可视化QT应用软件打包发布程序|
+|[TagCloudGenerator](https://github.com/ZjzMisaka/TagCloudGenerator)|Library|C#|Generates a tag cloud bitmap using weighted strings and customizable options for font size, color, background, and more.|
+|[Diff](https://github.com/ZjzMisaka/Diff)|Library|C#|get textual diffs|
 |[OMSPL](https://github.com/ZjzMisaka/OMSPL)|Document|-|OYAMA MAHIRO SAIKOU PUBLIC LICENSE - 绪山真寻赛高公共许可证 - 緒山まひろ最高パブリックライセンス|
 
 <table>
