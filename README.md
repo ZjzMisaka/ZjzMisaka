@@ -16,7 +16,7 @@
 |[QTReleaser](https://github.com/ZjzMisaka/QTReleaser)|Software|C++|可视化QT应用软件打包发布程序|-|
 |[TagCloudGenerator](https://github.com/ZjzMisaka/TagCloudGenerator)|Library|C#|Generates a tag cloud bitmap using weighted strings and customizable options for font size, color, background, and more.|-|
 |[Diff](https://github.com/ZjzMisaka/Diff)|Library|C#|get textual diffs|-|
-|[OMSPL](https://github.com/ZjzMisaka/OMSPL)|Document|-|OYAMA MAHIRO SAIKOU PUBLIC LICENSE - 绪山真寻赛高公共许可证 - 緒山まひろ最高パブリックライセンス|-|
+|[OMSPL](https://github.com/ZjzMisaka/OMSPL)|License|-|OYAMA MAHIRO SAIKOU PUBLIC LICENSE - 绪山真寻赛高公共许可证 - 緒山まひろ最高パブリックライセンス|-|
 
 <table>
   <tr>
