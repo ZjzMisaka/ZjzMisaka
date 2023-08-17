@@ -8,7 +8,7 @@
 
 |Repo|Type|Lang|About|Used By|
 |----|----|----|----|----|
-|[DynamicScriptRunner](https://github.com/ZjzMisaka/DynamicScriptRunner)|Library|C#|Enables runtime execution of C#/VB.NET scripts without pre-compilation. Supports Func delegate generation, DLLs, flexible run options, and async capabilities.|ExcelTool, DataTransformer|
+|[DynamicScriptExecutor](https://github.com/ZjzMisaka/DynamicScriptExecutor)|Library|C#|Enables runtime execution of C#/VB.NET scripts without pre-compilation. Supports Func delegate generation, DLLs, flexible run options, and async capabilities.|ExcelTool, DataTransformer|
 |[CSGOTacticSimulator](https://github.com/ZjzMisaka/CSGOTacticSimulator)|Software|C#|Watch demos&povs, simulate actions in CSGO competition. - 观看demo和pov, 模拟CSGO竞技中的动作.|-|
 |[ExcelTool](https://github.com/ZjzMisaka/ExcelTool)|Software|C#|Perform batch reading, analysis, and output operations of Excel by executing pre-written c# scripts.|-|
 |[DataTransformer](https://github.com/ZjzMisaka/DataTransformer)|Software|C#|Perform batch reading, analysis, and output operations of CSV by executing pre-written c# scripts.|-|
