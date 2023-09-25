@@ -3,9 +3,6 @@
 |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZjzMisaka&show_icons=true&theme=default&locale=en&include_all_commits=true&hide_border=true&custom_title=GitHub%20Stats"/></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZjzMisaka&show_icons=true&theme=default&layout=compact&locale=en&include_all_commits=true&hide_border=true"/></a>|
 | ------------- | ------------- |
 
-|<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ZjzMisaka&column=-1&margin-w=15&margin-h=15&no-frame=true"/></a>|
-| ------------- |
-
 |Icon|Repo|Type|Lang|About|Used By|
 |----|----|----|----|----|----|
 |![](https://github.com/ZjzMisaka/PowerThreadPool/blob/main/icon.png?raw=true)|[PowerThreadPool](https://github.com/ZjzMisaka/PowerThreadPool)|Library|C#|Enables efficient ThreadPool management with callback implementation, granular control, customizable concurrency, and support for diverse task submissions.|ExcelTool<br>DataTransformer|
