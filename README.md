@@ -5,7 +5,7 @@
 
 |Icon|Repo|Type|Lang|About|Used By|
 |----|----|----|----|----|----|
-|![](https://github.com/ZjzMisaka/PowerThreadPool/blob/main/icon.png?raw=true)|[PowerThreadPool](https://github.com/ZjzMisaka/PowerThreadPool)|Library|C#|Provides a comprehensive and efficient thread pool implementation, allowing for granular work control, dependencies, customizable concurrency, events, priority handling, timeout options, callbacks, error handling, and load balancing, alongside an easy-to-use API for diverse task submissions.|ExcelTool<br>DataTransformer|
+|![](https://github.com/ZjzMisaka/PowerThreadPool/blob/main/icon.png?raw=true)|[PowerThreadPool](https://github.com/ZjzMisaka/PowerThreadPool)|Library|C#|Offers an comprehensive and efficient thread pool with granular work control, flexible concurrency, and robust error handling, alongside an easy-to-use API for diverse task submissions.|ExcelTool<br>DataTransformer|
 ||[DynamicScriptExecutor](https://github.com/ZjzMisaka/DynamicScriptExecutor)|Library|C#|Enables runtime execution of C#/VB.NET scripts without pre-compilation. Supports Func delegate generation, DLLs, flexible run options, and async capabilities.|ExcelTool<br>DataTransformer|
 |![](https://raw.githubusercontent.com/ZjzMisaka/CSGOTacticSimulator/master/CSGOTacticSimulator/CTS.ico)|[CSGOTacticSimulator](https://github.com/ZjzMisaka/CSGOTacticSimulator)|Software|C#|Watch demos&povs, simulate actions in CSGO competition. - 观看demo和pov, 模拟CSGO竞技中的动作.|-|
 |![](https://github.com/ZjzMisaka/ExcelTool/blob/main/ExcelTool/ExcelTool.ico)|[ExcelTool](https://github.com/ZjzMisaka/ExcelTool)|Software|C#|Perform batch reading, analysis, and output operations of Excel by executing pre-written c# scripts.|AnimeReport|
