@@ -5,6 +5,7 @@
 |----|----|----|----|----|----|
 |![](https://github.com/ZjzMisaka/PowerThreadPool/blob/main/icon.png?raw=true)|[PowerThreadPool](https://github.com/ZjzMisaka/PowerThreadPool)|Library|C#|A comprehensive and efficient lock-free thread pool with granular work control, flexible concurrency, and robust error handling, alongside an easy-to-use API for diverse work submissions.|Powork<br>ExcelTool<br>DataTransformer|
 |![Powork](https://github.com/ZjzMisaka/Powork/assets/16731853/75399556-3ab7-4b1e-b5db-4f1e4cdc962e)|[Powork](https://github.com/ZjzMisaka/Powork)|Software|C#|Powork is a comprehensive office software designed for local networks, providing efficient communication and collaboration among users.||
+||[MDocReader](https://github.com/ZjzMisaka/MDocReader)|Software|C#|Reading Markdown documents (e.g., GitHub wiki)||
 ||[Pi18n](https://github.com/ZjzMisaka/Pi18n)|Library|C#|A fully dynamic and easy-to-use solution for multi-lingual support.|Powork|
 ||[DynamicScriptExecutor](https://github.com/ZjzMisaka/DynamicScriptExecutor)|Library|C#|Enables runtime execution of C#/VB.NET scripts without pre-compilation. Supports Func delegate generation, DLLs, flexible run options, and async capabilities.|ExcelTool<br>DataTransformer|
 |![](https://raw.githubusercontent.com/ZjzMisaka/CSGOTacticSimulator/master/CSGOTacticSimulator/CTS.ico)|[CSGOTacticSimulator](https://github.com/ZjzMisaka/CSGOTacticSimulator)|Software|C#|Watch demos&povs, simulate actions in CSGO competition. - 观看demo和pov, 模拟CSGO竞技中的动作.|-|
