@@ -3,7 +3,7 @@
 
 |Icon|Repo|Type|Lang|About|Used By|
 |----|----|----|----|----|----|
-|![](https://github.com/ZjzMisaka/PowerThreadPool/blob/main/icon.png?raw=true)|[PowerThreadPool](https://github.com/ZjzMisaka/PowerThreadPool)|Library|C#|A comprehensive and efficient low-contention thread pool for easily managing both sync and async workloads. It provides granular work control, flexible concurrency, and robust error handling.|Powork<br>ExcelTool<br>DataTransformer|
+|![](https://github.com/ZjzMisaka/PowerThreadPool/blob/main/icon.png?raw=true)|[PowerThreadPool](https://github.com/ZjzMisaka/PowerThreadPool)|Library|C#|A comprehensive and efficient low-contention thread pool for easily managing both sync and async workloads. It provides granular work control, flexible concurrency, and robust error handling.<br>[![.NET Foundation Seed Project](https://img.shields.io/badge/.NET_Foundation-Seed_Project-512bd4?style=flat-square)](https://github.com/dotnet-foundation/projects/blob/main/readme.md#project-levels)|Powork<br>ExcelTool<br>DataTransformer|
 |![Powork](https://github.com/ZjzMisaka/Powork/assets/16731853/75399556-3ab7-4b1e-b5db-4f1e4cdc962e)|[Powork](https://github.com/ZjzMisaka/Powork)|Software|C#|Powork is a comprehensive office software designed for local networks, providing efficient communication and collaboration among users.||
 ||[Pi18n](https://github.com/ZjzMisaka/Pi18n)|Library|C#|A fully dynamic and easy-to-use solution for multi-lingual support.|Powork|
 ||[MDocReader](https://github.com/ZjzMisaka/MDocReader)|Software|C#|Reading Markdown documents (e.g., GitHub wiki)||
